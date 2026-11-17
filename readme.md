@@ -25,7 +25,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 | [⚽ FIFA](#-01-fifa-world-cup-analytics) | [🛒 Superstore](#-02-india-superstore-sales-analytics) | [☕ Coffee](#-03-coffee-shop-sales-analytics) | [🏅 Olympics](#-04-global-olympics-analytics) | [🎧 Spotify](#-05-spotify-listening-analytics) |
 
-[🛠️ Tech Stack](#️-tools--technologies) · [📈 Workflow](#-my-analytics-workflow) · [👨‍💻 About Me](#-about-me) · [📬 Contact](#-lets-connect)
+[🛠️ Tech Stack](#️-tools--technologies) · [👨‍💻 About Me](#-about-me) · [📬 Contact](#-lets-connect)
 
 ---
 
