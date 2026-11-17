@@ -95,7 +95,6 @@ Analyze retail sales performance, profitability, and business trends through int
 
 ![Sales](https://img.shields.io/badge/Domain-Sales%20%26%20Customer-brown?style=flat-square)
 ![File](https://img.shields.io/badge/File-Coffee__Shop__Sales.pbix-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-File%20upload%20pending-lightgrey?style=flat-square)
 
 Explore coffee shop revenue, customer insights, product performance, time-based sales trends, and profitability.
 
